@@ -1,0 +1,8 @@
+1 - Copie as Pastas "include" e "lib" para o diretorio onde foi instalado o seu Dev-Cpp
+    normalmente está em "C:\Dev-Cpp".
+
+2 - Em seu codigo basta incluir a biblioteca "conio.c" exemplo "#include <conio.c>".
+
+3 - Pronto.
+
+4 - Rode o Arquivo "Teste.c" para Verificar se Está Funcionando.
